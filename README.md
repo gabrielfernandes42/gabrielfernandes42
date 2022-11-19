@@ -1,4 +1,4 @@
-# 🚀 Ola! Eu sou o Gabriel!
+# 🚀 Hey, I'm Gabriel! 👋
 
    <p align="left">
    
