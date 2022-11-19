@@ -20,9 +20,13 @@ A passionate front-end developer from Brazil.
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+<br />
 
-
-
+Find me elsewhere 🌎
+<p align="left">
+<a href="https://linkedin.com/in/gabriel-fernandes-647060188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-fernandes-647060188" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriel_fer42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_fer42" height="30" width="40" /></a>
+</p>
 <br />
 
 ---
