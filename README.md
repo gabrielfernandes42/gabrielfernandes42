@@ -4,7 +4,6 @@
    
    </p>
 
----
 
 ### Linguagens e ferramentas
 
