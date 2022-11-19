@@ -1,4 +1,4 @@
-# 🏄‍♂️ Gabriel Fernandes
+# Ola! Eu sou o Gabrie! 
 
 ****
 
