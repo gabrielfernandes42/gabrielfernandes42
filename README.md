@@ -1,4 +1,4 @@
-# 🚀 Hello! I'am Gabriel, web developer from Brazil!
+# 🚀 Ola! Eu sou o Gabriel!
 
    <p align="left">
    
