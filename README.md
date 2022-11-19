@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Gabriel! 👋
+# Hey, I'm Gabriel! 👋
 
 A passionate front-end developer from Brazil. 
 
