@@ -1,5 +1,7 @@
 # 🚀 Hey, I'm Gabriel! 👋
 
+A passionate front-end developer from Brazil. 
+
    <p align="left">
    
    </p>
